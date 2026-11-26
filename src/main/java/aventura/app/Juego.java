@@ -1,4 +1,4 @@
-package aventura.app;
+package main.java.aventura.app;
 
 import java.util.Scanner;
 
